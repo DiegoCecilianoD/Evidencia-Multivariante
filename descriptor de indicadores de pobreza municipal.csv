@@ -1,0 +1,37 @@
+clave_entidad,Clave de entidad federativa
+entidad_federativa,Nombre de la entidad federativa
+clave_municipio,Clave municipal
+municipio,Nombre del municpio
+poblacion,Población total
+pobreza,Porcentaje de la población en situación de pobreza
+pobreza_pob,Población en situación de pobreza
+pobreza_e,Porcentaje de la población en situación de pobreza extrema
+pobreza_e_pob,Población en situación de pobreza extrema
+pobreza_m,Porcentaje de la población en situación de pobreza moderada
+pobreza_m_pob,Población en situación de pobreza moderada
+vul_car,Porcentaje de la población vulnerable por carencias
+vul_car_pob,Población vulnerable por carencias
+vul_ing,Porcentaje de la población vulnerable por ingreso
+vul_ing_pob,Población vulnerable por ingreso
+npnv,Porcentaje de la población no pobre y no vulnerable
+npnv_pob,Población no pobre y no vulnerable
+ic_rezedu,Porcentaje de la población con rezago educativo
+ic_rezedu_pob,Población con rezago educativo
+ic_asalud,Porcentaje de la población con carencia por acceso a los servicios de salud
+ic_asalud_pob,Población con carencia por acceso a los servicios de salud
+ic_segsoc,Porcentaje de la población con carencia por acceso a la seguridad social
+ic_segsoc_pob,Población con carencia por acceso a la seguridad social
+ic_cv,Porcentaje de la población con carencia por calidad y espacios en la vivienda
+ic_cv_pob,Población con carencia por calidad y espacios en la vivienda
+ic_sbv,Porcentaje de la población con carencia por acceso a los servicios básicos en la vivienda
+ic_sbv_pob,Población con carencia por acceso a los servicios básicos en la vivienda
+ic_ali,Porcentaje de la población con carencia por acceso a la alimentación
+ic_ali_pob,Población con carencia por acceso a la alimentación
+carencias,Porcentaje de la población con al menos una carencia social
+carencias_pob,Población con al menos una carencia social
+carencias3,Porcentaje de la población con al menos tres carencias sociales
+carencias3_pob,Población con al menos tres carencias sociales
+plb,Porcentaje de la población con ingreso inferior a la línea de bienestar
+plb_pob,Población con ingreso inferior a la línea de bienestar
+plbm,Porcentaje de la población con ingreso inferior a la línea de bienestar mínimo
+plbm_pob,Población con ingreso inferior a la línea de bienestar mínimo
